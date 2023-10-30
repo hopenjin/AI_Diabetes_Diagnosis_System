@@ -2,4 +2,4 @@
 the group project of intro to ai
 
 
-Requirement: each member needs to upload a py file for the core file, and a jupyter notebook for the explanation to the team and presentation material.
+<b>Requirement:</b> each member needs to upload a py file for the core file, and a jupyter notebook for the explanation to the team and presentation material.
