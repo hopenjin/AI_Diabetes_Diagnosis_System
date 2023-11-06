@@ -7,6 +7,6 @@
 
 
 <b>Notice:</b> 
-1. We are going to introduce our work to the team members so everyone can be on the same page and adjust the code for collaboration and integration.
-2. each member has a file, and please put your code and work in the corresponding folder.
-3. it is not the final work for submission.
+  1. We are going to introduce our work to the team members so everyone can be on the same page and adjust the code for collaboration and integration.
+  2. each member has a file, and please put your code and work in the corresponding folder.
+  3. it is not the final work for submission.
