@@ -14,6 +14,6 @@
 
 1. download or fork the repo to your local device.
 2. install or update the Python package using the requirement.txt
-3. move the "server" folder to your GPU machine, and make sure the machine has 15Gib GPU ram
+3. move the "server" folder to your GPU machine, and make sure the machine has 30 Gib GPU ram
 4. move the "local" folder to your localhost
 5. if the GPU machine and the localhost is the same device, it is fine. If not, please let the device with the "local" folder SSH connect to the port (default:5000) in your GPU machine.
