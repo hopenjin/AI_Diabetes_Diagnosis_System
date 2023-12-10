@@ -2,7 +2,7 @@
 This repo is the complete code implementation of our paper, AI-Powered Conversational Diabetes Diagnosis System.
 
 ## Repo introduction
-The repo includes the old code, and the final code of this project. Users only need the "local" file and "server" file for the system deployment.
+The repo includes the original code and the final code completion of this project. The users only need the "local" file and "server" file for the system deployment.
 
 ## How to use the repo?
 1. Download or fork the repo to your local device.
@@ -13,9 +13,9 @@ The repo includes the old code, and the final code of this project. Users only n
 ```bash
    pip install requirement_localhost.txt
 ```
-4. Move the "server" folder to your GPU machine, and make sure the machine has 30 Gib GPU ram
+4. Move the "server" folder to your GPU machine, and make sure the machine has 30 Gib GPU RAM.
 5. Move the "local" folder to your localhost
-6. Use python to run the ai_nurse_llm.py on your GPU machine. This step needs some time to wait.
+6. Use Python to run the ai_nurse_llm.py on your GPU machine. This step needs some time to wait.
    python ./ai_nurse_llm.py
 7. If the GPU machine and the localhost are the same device, it is fine. If not, please let the device with the "local" folder SSH connect to the port (default:5000) in your GPU machine.
 ```bash
@@ -31,5 +31,5 @@ The repo includes the old code, and the final code of this project. Users only n
 ```bash
     python -m http.server 8080
 ```
-10. Use a chrome browner ti open the link http://localhost:8080/
+10. Use a Chrome browser to open the link http://localhost:8080/
 11. After all steps go well, you can talk with our AI nurse now.
