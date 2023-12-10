@@ -1,5 +1,5 @@
 # AI Diabetes Diagnosis System
-<b> The program code </b>
+This repo is the complete code implementation of our paper, AI-Powered Conversational Diabetes Diagnosis System.
 
 ## How to use the repo?
 1. download or fork the repo to your local device.
