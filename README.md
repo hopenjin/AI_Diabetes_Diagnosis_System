@@ -14,9 +14,9 @@ The repo includes the original code and the final code completion of this projec
    pip install requirement_localhost.txt
 ```
 4. Move the "server" folder to your GPU machine, and make sure the machine has 30 Gib GPU RAM. If your local device has the capability, you can keep the "server" folder in your local device.
-5. Use Python to run the ai_nurse_llm.py on your GPU machine. This step needs some time to wait.
+5. Use Python to run the ai_nurse_llm.py on your GPU machine. This step needs to take some time.
 ```bash  
-   python ./ai_nurse_llm.py
+   python .PATH_TO_THE_FILE/server/ai_nurse_llm.py
 ```
 6. If the GPU machine and the localhost are the same device, it is fine. If not, please let the device with the "local" folder SSH connect to the port (default:5000) in your GPU machine.
 ```bash
