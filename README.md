@@ -1,7 +1,7 @@
-# AI_Diabetes_Diagnosis_System
-<b> The group project of intro to ai</b>
+# AI Diabetes Diagnosis System
+<b> The program code </b>
 
-<b>guidance</b> 
+## How to use the repo?
 1. download or fork the repo to your local device.
 2. install or update the Python package using the requirement_gpu_machine.txt and requirement_localhost.txt
 3. move the "server" folder to your GPU machine, and make sure the machine has 30 Gib GPU ram
