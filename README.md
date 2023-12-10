@@ -1,6 +1,9 @@
 # AI Diabetes Diagnosis System
 This repo is the complete code implementation of our paper, AI-Powered Conversational Diabetes Diagnosis System.
 
+## repo introduction
+The repo includes the old code, and the final code of this project. Users only need the "local" file and "server" file for the system deployment.
+
 ## How to use the repo?
 1. download or fork the repo to your local device.
 2. install or update the Python package using the requirement_gpu_machine.txt and requirement_localhost.txt
