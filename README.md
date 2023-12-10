@@ -19,7 +19,7 @@ The repo includes the old code, and the final code of this project. Users only n
    python ./ai_nurse_llm.py
 7. If the GPU machine and the localhost are the same device, it is fine. If not, please let the device with the "local" folder SSH connect to the port (default:5000) in your GPU machine.
 ```bash
-   ssh -L 5000:localhost:5000 "your GPU machine account"
+   ssh -L 5000:localhost:5000 "your GPU machine account and address"
 ```
 
 8. On your localhost, open the terminal and move to the address of the "local" folder, then run the following code.
