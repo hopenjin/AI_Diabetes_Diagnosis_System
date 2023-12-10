@@ -32,5 +32,5 @@ The repo includes the original code and the final code completion of this projec
 ```bash
     python -m http.server 8080
 ```
-10. Use a Chrome browser to open the link http://localhost:8080/
+10. Use a Chrome browser to open the link: http://localhost:8080/
 11. After all steps go well, you can talk with our AI nurse now.
