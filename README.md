@@ -2,7 +2,7 @@
 This repo is the complete code implementation of our project, AI-Powered Conversational Diabetes Diagnosis System.
 
 ## Repo introduction
-The repo includes the original code and the final code completion of this project. Users only need the "local" and "server" folders for system deployment.
+The repo includes the original code and the final code completion of this project. Users only need the "local" and "server" folders for the deployment.
 
 ## How to use the repo?
 1. Download or fork the repo to your local device.
