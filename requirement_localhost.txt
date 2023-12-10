@@ -1,2 +1,2 @@
 flask
-uvicorn
+uvicorn==0.24.0
