@@ -6,7 +6,7 @@ The repo includes the old code, and the final code of this project. Users only n
 
 ## How to use the repo?
 1. Download or fork the repo to your local device.
-2. Install or update the Python package using the requirement_gpu_machine.txt and requirement_localhost.txt
+2. Install or update the Python package using the requirement_gpu_machine.txt and requirement_localhost.txt. The Python version we used is 3.9.
 ```bash
    pip install requirement_gpu_machine.txt
 ```
