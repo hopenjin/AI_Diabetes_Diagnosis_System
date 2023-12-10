@@ -13,7 +13,10 @@
 
 9. 
 10. On your localhost, open the terminal and move to the address of the "local" folder, then run the following code.
+
+```bash
     uvicorn diabetes_server:app --reload
+```
 13. Open a new terminal and move to the address of the "local" folder, then run the following code.
     python -m http.server 8080
 14. use a chrome browner ti open the link http://localhost:8080/
